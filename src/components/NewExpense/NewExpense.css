@@ -24,3 +24,14 @@
     font-size: 1.5rem;
     font-weight: bold;
   }
+
+  .new-expense__button {
+    padding: 1rem;
+    font-size: 200;
+    background-color: rgb(180, 131, 180);
+    border-color: rgb(180, 131, 180);
+    border-width: 0ch;
+    border-radius: 3%;
+    font-weight: bold;
+    margin: 3px;
+  }
