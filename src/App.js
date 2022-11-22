@@ -41,7 +41,7 @@ function App() {
       <NewExpense onAddExpense={addExpenseHandler} />
       <Expenses items = {expenses} />
 
-      <p>This is also visible</p>
+      
     </div>
   );
 }
